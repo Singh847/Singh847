@@ -4,6 +4,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singh847/Singh847/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Singh847/Singh847/output/github-snake.svg" />
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
 ---
