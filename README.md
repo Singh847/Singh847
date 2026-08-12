@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-SOC_Analyst_%C2%B7_Security_Engineer-2da44e?style=flat-square" alt="Open to Work">
 </p>
 
-<p align="center">📍 Sheffield, UK · Onsite · Remote · 24/7 shifts welcome · 🛂 UK Graduate visa — full work authorisation</p>
+<p align="center">📍 Sheffield, UK · Onsite · Remote · 24/7 shifts welcome · 🛂  full work authorisation</p>
 
 ---
 
